@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Evaluador de Número Primo</title>
+</head>
+<body>
+  <h1>Evaluador de Número Primo</h1>
+  <input type="number" id="numero" placeholder="Ingresa un número">
+  <button id="evaluar">Evaluar</button>
+  <p id="salida"></p>
+
+  <script src="esPrimo.js"></script>
+  <script>
+    document.getElementById('evaluar').addEventListener('click', function() {
+      const input = document.getElementById('numero').value;
+      const numero = parseFloat(input);
+      const resultado = esPrimo(numero);
+      document.getElementById('salida').innerText = resultado ? 'Es un número primo' : 'No es un número primo';
+    });
+  </script>
+</body>
+</html>
