@@ -13,4 +13,8 @@ describe('Función esPrimo', () => {
     expect(esPrimo(-3)).toBe(false);
   });
 
+  test('Prueba 4: Número grande (n = 997)', () => {
+    expect(esPrimo(997)).toBe(true);
+  });
+
 });
