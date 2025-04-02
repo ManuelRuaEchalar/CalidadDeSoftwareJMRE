@@ -12,4 +12,8 @@ describe('calcularArea', () => {
     expect(resultado).toBe(0);
   });
 
+  test('Prueba 3: radio negativo (r = -3)', () => {
+    expect(() => calcularArea(-3)).toThrow("El radio no puede ser negativo");
+  });
+
 });
