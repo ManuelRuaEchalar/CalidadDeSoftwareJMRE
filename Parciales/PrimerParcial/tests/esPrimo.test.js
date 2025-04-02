@@ -17,4 +17,8 @@ describe('Función esPrimo', () => {
     expect(esPrimo(997)).toBe(true);
   });
 
+  test('Prueba 5: Número cero (n = 0)', () => {
+    expect(esPrimo(0)).toBe(false);
+  });
+
 });
