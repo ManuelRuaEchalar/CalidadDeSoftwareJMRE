@@ -5,7 +5,6 @@ function calcularArea(radio) {
     return Math.PI * Math.pow(radio, 2);
   }
   
-  // Exportamos la función para poder usarla en las pruebas con Jest
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = { calcularArea };
   }

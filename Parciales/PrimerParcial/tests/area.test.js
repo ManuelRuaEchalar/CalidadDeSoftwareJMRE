@@ -16,4 +16,10 @@ describe('calcularArea', () => {
     expect(() => calcularArea(-3)).toThrow("El radio no puede ser negativo");
   });
 
+  test('Prueba 4: radio grande (r = 1000)', () => {
+    const resultado = calcularArea(1000);
+    // Math.PI * 1000^2 = Math.PI * 1,000,000 ≈ 3141592.653589793
+    expect(resultado).toBeCloseTo(3141592.653589793, 5);
+  });
+
 });
