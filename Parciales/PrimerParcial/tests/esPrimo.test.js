@@ -9,4 +9,8 @@ describe('Función esPrimo', () => {
     expect(esPrimo(6)).toBe(false);
   });
 
+  test('Prueba 3: Número negativo (n = -3)', () => {
+    expect(esPrimo(-3)).toBe(false);
+  });
+
 });
