@@ -22,4 +22,10 @@ describe('calcularArea', () => {
     expect(resultado).toBeCloseTo(3141592.653589793, 5);
   });
 
+  test('Prueba 5: radio decimal (r = 3.5)', () => {
+    const resultado = calcularArea(3.5);
+    // Math.PI * 3.5^2 = Math.PI * 12.25 ≈ 38.4845
+    expect(resultado).toBeCloseTo(38.48451000647496, 5);
+  });
+
 });
