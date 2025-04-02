@@ -7,4 +7,9 @@ describe('calcularArea', () => {
     expect(resultado).toBeCloseTo(78.53981633974483, 5);
   });
 
+  test('Prueba 2: radio cero (r = 0)', () => {
+    const resultado = calcularArea(0);
+    expect(resultado).toBe(0);
+  });
+
 });
