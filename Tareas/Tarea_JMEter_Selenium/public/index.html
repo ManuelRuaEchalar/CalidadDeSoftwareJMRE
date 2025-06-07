@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Registro de Personas</title>
+</head>
+<body>
+  <h1>Formulario de Registro</h1>
+  <form action="/registrar" method="post">
+    <label>Carnet:      <input type="text" name="carnet"      required></label><br>
+    <label>Nombres:     <input type="text" name="nombres"     required></label><br>
+    <label>Apellidos:   <input type="text" name="apellidos"   required></label><br>
+    <label>Sexo:       
+      <select name="sexo" required>
+        <option value="M">M</option>
+        <option value="F">F</option>
+      </select>
+    </label><br>
+    <label>Fecha Nac.:  <input type="date" name="fecha_nac"  required></label><br>
+    <label>Profesión:   <input type="text" name="profesion"   required></label><br>
+    <label>Celular:     <input type="text" name="celular"     required></label><br>
+    <label>Dirección:   <input type="text" name="direccion"   required></label><br>
+    <button type="submit">Registrar</button>
+  </form>
+  <hr>
+  <h2>Personas Registradas</h2>
+  <!-- Aquí se insertará la tabla desde PHP -->
+  <?php include 'register.php'; ?>
+</body>
+</html>

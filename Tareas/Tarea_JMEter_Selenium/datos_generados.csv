@@ -1,0 +1,501 @@
+carnet,nombres,apellidos,sexo,fecha_nac,profesion,celular,direccion
+C001,Jorge,Romero,F,1971-09-27,Enfermera,71872143,Pasaje Oeste 12
+C002,Luis,Romero,F,1970-09-18,Técnico,72137020,Calle San Martín 44
+C003,Valentina,Rodríguez,M,1966-12-01,Abogada,74907021,Calle 52 #10-85
+C004,Natalia,Gómez,F,1969-05-21,Médico,71001482,Calle 52 #10-85
+C005,Valentina,Herrera,M,1981-08-02,Vendedor,77543847,Carrera 70 #23-67
+C006,Carlos,Morales,F,1983-12-03,Enfermera,70448165,Boulevard La Paz 90
+C007,Valentina,Rivera,M,1998-05-15,Programador,77100681,Calle 25 de Mayo 77
+C008,Miguel,Cruz,F,1994-07-21,Bióloga,70014143,Calle San Martín 44
+C009,José,Morales,F,1967-02-25,Vendedor,73614597,Carrera 7 #65-42
+C010,Antonio,Romero,F,1963-12-21,Médico,72131006,Carrera 7 #65-42
+C011,Natalia,Romero,M,1963-03-13,Secretaria,70960259,Avenida Sur 435
+C012,Miguel,Sánchez,F,1970-03-01,Técnico,70879047,Calle Falsa 123
+C013,Laura,Sánchez,F,1998-07-11,Administrativa,75387988,Avenida Siempre Viva 742
+C014,Juan,Mendoza,M,1984-01-22,Vendedor,79310687,Avenida Kennedy 321
+C015,Daniela,Morales,F,1974-11-27,Enfermera,78132648,Carrera 70 #23-67
+C016,Camila,Sánchez,M,1966-04-25,Abogada,75384370,Carrera 70 #23-67
+C017,Laura,Ruiz,F,1990-02-22,Mecánico,72658275,Carrera 70 #23-67
+C018,Carlos,Díaz,F,1990-12-22,Abogada,79580892,Paseo Reforma 222
+C019,Patricia,Rodríguez,M,1976-08-11,Psicóloga,72558084,Calle Falsa 123
+C020,Eduardo,Flores,M,1960-03-15,Bióloga,77331486,Calle 10 #34-56
+C021,Lucía,Torres,M,1968-08-24,Administrativa,79067860,Pasaje Oeste 12
+C022,Roberto,Ruiz,F,1980-09-27,Arquitecta,71581579,Calle San Martín 44
+C023,Antonio,Díaz,M,1962-02-26,Médico,74274313,Avenida Siempre Viva 742
+C024,Laura,Morales,F,1985-09-18,Programador,75887578,Avenida Siempre Viva 742
+C025,Patricia,Sánchez,M,1976-04-25,Contador,73539204,Boulevard La Paz 90
+C026,Miguel,Fernández,M,1980-04-01,Médico,77073076,Calle 10 #34-56
+C027,Roberto,Mendoza,F,1987-03-13,Contador,78027960,Calle Principal 56
+C028,Antonio,Flores,F,1970-03-25,Profesor,70081209,Avenida Kennedy 321
+C029,Eduardo,Navarro,F,1982-04-08,Programador,73112713,Calle San Martín 44
+C030,Camila,Herrera,F,1995-07-04,Bióloga,77792794,Avenida Central 890
+C031,Sofía,Vargas,F,1961-12-05,Administrativa,75325413,Circuito Interior 67
+C032,Antonio,Castro,M,1983-04-13,Chef,71905936,Carrera 7 #65-42
+C033,Roberto,Pérez,F,1988-02-25,Psicóloga,78686717,Carrera 70 #23-67
+C034,Ricardo,Flores,M,1989-10-26,Diseñadora,79820501,Calle Principal 56
+C035,Natalia,Ramírez,F,1963-10-17,Arquitecta,75838106,Avenida Este 78
+C036,José,Flores,F,1997-11-23,Electricista,75470780,Carrera 7 #65-42
+C037,María,García,F,1962-08-06,Bióloga,77357248,Carrera 7 #65-42
+C038,Ana,Ramírez,M,1973-12-10,Médico,78397984,Avenida Este 78
+C039,Patricia,Cruz,F,1985-09-07,Empresario,71810411,Avenida Sur 435
+C040,Miguel,Ruiz,F,1962-10-20,Diseñadora,79297401,Avenida Este 78
+C041,Antonio,Rivera,F,1972-09-10,Chef,72835218,Circuito Interior 67
+C042,Daniela,Vargas,M,1995-11-28,Contador,75393734,Calle 25 de Mayo 77
+C043,Jorge,García,M,1964-03-06,Psicóloga,79961451,Calle Principal 56
+C044,Roberto,Pérez,F,1979-06-26,Abogada,73658752,Calle San Martín 44
+C045,Ana,Gutiérrez,M,1984-10-14,Arquitecta,71529601,Avenida Este 78
+C046,Eduardo,Jiménez,M,1997-11-17,Abogada,77347023,Calle 25 de Mayo 77
+C047,Daniela,Gómez,F,1978-04-26,Psicóloga,73892770,Avenida Este 78
+C048,Fernando,Flores,M,1970-09-10,Administrativa,78561250,Calle 25 de Mayo 77
+C049,Julia,Herrera,M,1996-02-17,Mecánico,74748487,Calle Falsa 123
+C050,Eduardo,Pérez,F,1986-01-16,Bióloga,73347636,Avenida Siempre Viva 742
+C051,Gabriela,Martínez,F,1993-07-11,Médico,75139899,Avenida Central 890
+C052,Julia,Rodríguez,M,1962-06-27,Electricista,71596954,Avenida Sur 435
+C053,Francisco,Navarro,M,1984-06-09,Bióloga,78131586,Calle 52 #10-85
+C054,Sofía,Cruz,M,1983-12-01,Consultora,71924941,Circuito Interior 67
+C055,Alberto,Vargas,M,1978-05-25,Médico,77847410,Avenida Este 78
+C056,Eduardo,Rivera,M,1973-05-17,Bióloga,79365005,Calle 52 #10-85
+C057,José,Gómez,F,1980-03-04,Programador,75196477,Pasaje Oeste 12
+C058,Miguel,Jiménez,M,1974-01-12,Psicóloga,75929748,Avenida Kennedy 321
+C059,Ana,Castro,M,1979-04-17,Profesor,77741305,Carrera 70 #23-67
+C060,María,Pérez,M,1990-09-21,Empresario,79279128,Avenida Sur 435
+C061,Alberto,Rivera,F,1993-04-13,Secretaria,70252378,Calle 10 #34-56
+C062,Jorge,Gómez,F,1974-03-15,Médico,79596783,Calle 10 #34-56
+C063,Carlos,Sánchez,M,1996-08-05,Vendedor,75945211,Carrera 15 #45-23
+C064,Antonio,Castro,M,1969-02-27,Chef,70903243,Calle 52 #10-85
+C065,Julia,Cruz,M,1960-12-10,Administrativa,79160800,Paseo Reforma 222
+C066,Juan,Gutiérrez,F,1987-07-14,Mecánico,79060450,Calle 10 #34-56
+C067,Valentina,Castro,F,1970-05-21,Secretaria,70573148,Calle 25 de Mayo 77
+C068,Francisco,Díaz,M,1967-08-23,Médico,72015821,Calle San Martín 44
+C069,Miguel,García,F,1996-12-05,Enfermera,70711705,Carrera 7 #65-42
+C070,Jorge,Mendoza,F,1990-08-27,Secretaria,71755174,Avenida Libertad 85
+C071,Juan,Fernández,F,1988-05-04,Programador,74641775,Pasaje Oeste 12
+C072,José,Morales,F,1961-04-14,Administrativa,73777649,Avenida Libertad 85
+C073,Natalia,Díaz,F,1991-10-19,Vendedor,71070997,Calle Falsa 123
+C074,Laura,Gómez,M,1978-04-23,Contador,79982014,Carrera 15 #45-23
+C075,Sofía,Sánchez,F,1961-06-19,Consultora,70351244,Avenida Este 78
+C076,Antonio,Torres,F,1992-06-08,Consultora,77793729,Carrera 15 #45-23
+C077,Ana,Pérez,F,1973-07-28,Ingeniero,71713034,Avenida Libertad 85
+C078,Valentina,Rivera,F,1976-01-16,Contador,72178973,Avenida Sur 435
+C079,Carlos,Mendoza,F,1984-03-05,Médico,72132132,Pasaje Oeste 12
+C080,Julia,Gutiérrez,M,1992-10-05,Diseñadora,79184947,Calle 25 de Mayo 77
+C081,Antonio,Pérez,M,1969-07-02,Bióloga,77776898,Paseo Reforma 222
+C082,Antonio,Morales,M,1996-11-10,Secretaria,72916948,Avenida Libertad 85
+C083,José,Navarro,F,1968-09-01,Empresario,71317646,Calle 10 #34-56
+C084,Laura,Ruiz,M,1985-09-11,Contador,77722159,Carrera 7 #65-42
+C085,Francisco,Rodríguez,M,1988-04-25,Electricista,74012229,Circuito Interior 67
+C086,Adriana,Cruz,F,1975-03-03,Técnico,76881977,Boulevard La Paz 90
+C087,Sofía,Navarro,F,1977-10-19,Electricista,77949922,Avenida Sur 435
+C088,Patricia,Vargas,M,1999-11-27,Profesor,75826479,Calle Falsa 123
+C089,Lucía,García,M,1982-08-25,Vendedor,72661750,Avenida Kennedy 321
+C090,Lucía,Ramírez,F,1996-09-21,Chef,77480396,Calle San Martín 44
+C091,Carlos,Herrera,F,1963-07-11,Psicóloga,72023939,Calle 52 #10-85
+C092,Juan,García,F,1983-08-20,Contador,73294712,Calle San Martín 44
+C093,Laura,Romero,F,1991-05-28,Mecánico,75676657,Carrera 15 #45-23
+C094,Antonio,Ortiz,F,1986-06-23,Médico,71653289,Pasaje Oeste 12
+C095,Natalia,Romero,F,1995-05-22,Psicóloga,70296106,Carrera 15 #45-23
+C096,Fernando,Navarro,F,1960-10-20,Chef,75660721,Avenida Kennedy 321
+C097,Gabriela,Gutiérrez,M,1972-03-28,Secretaria,72523470,Carrera 7 #65-42
+C098,Fernando,Jiménez,F,1970-01-04,Programador,78756991,Calle Falsa 123
+C099,Camila,Díaz,F,1996-07-27,Técnico,75762804,Calle Principal 56
+C100,Patricia,Jiménez,M,1999-11-07,Profesor,72962700,Paseo Reforma 222
+C101,Camila,Ruiz,F,1986-07-08,Programador,75869019,Avenida Kennedy 321
+C102,Sofía,Castro,M,1966-07-21,Chef,70188545,Paseo Reforma 222
+C103,Lucía,Flores,F,1985-11-23,Diseñadora,72737617,Boulevard Norte 77
+C104,Ana,Pérez,F,1978-03-02,Médico,77875704,Avenida Central 890
+C105,Patricia,López,F,1970-07-20,Psicóloga,76738478,Avenida Este 78
+C106,Daniela,Martínez,M,1992-01-27,Mecánico,78413481,Circuito Interior 67
+C107,Alberto,Díaz,M,1966-11-05,Contador,75260813,Calle 10 #34-56
+C108,Eduardo,Romero,F,1977-05-04,Programador,74452569,Avenida Siempre Viva 742
+C109,Daniela,Gómez,M,1999-05-26,Abogada,70239286,Carrera 15 #45-23
+C110,Adriana,Castro,M,1964-01-03,Psicóloga,78474525,Avenida Kennedy 321
+C111,Antonio,García,M,1975-02-14,Enfermera,78647415,Calle 25 de Mayo 77
+C112,Patricia,Pérez,F,1981-09-21,Profesor,78562507,Avenida Sur 435
+C113,Antonio,Herrera,M,1982-11-22,Administrativa,77298057,Carrera 7 #65-42
+C114,Antonio,Rivera,F,1983-03-17,Chef,72908084,Boulevard Norte 77
+C115,Natalia,Gómez,F,1979-10-11,Bióloga,73510491,Avenida Kennedy 321
+C116,Juan,Sánchez,M,1989-06-15,Consultora,77034822,Avenida Sur 435
+C117,Camila,Navarro,M,1978-07-07,Enfermera,76538045,Pasaje Oeste 12
+C118,Luis,García,M,1960-05-20,Abogada,77986589,Carrera 70 #23-67
+C119,Fernando,Ramírez,F,1994-05-09,Psicóloga,73327921,Carrera 15 #45-23
+C120,Antonio,Mendoza,M,1992-06-10,Secretaria,79160162,Avenida Kennedy 321
+C121,Miguel,Vargas,F,1970-08-04,Consultora,79842875,Calle 10 #34-56
+C122,Antonio,Ortiz,F,1988-04-17,Médico,71657608,Avenida Sur 435
+C123,Julia,Sánchez,F,1980-08-24,Arquitecta,73993831,Avenida Este 78
+C124,Natalia,Cruz,M,1990-02-24,Ingeniero,75269764,Circuito Interior 67
+C125,Luis,Rodríguez,F,1974-10-22,Electricista,79943377,Calle San Martín 44
+C126,Laura,Ramírez,M,1984-10-12,Consultora,78978240,Carrera 70 #23-67
+C127,Carlos,Navarro,F,1989-07-17,Mecánico,79592537,Calle San Martín 44
+C128,Alberto,Ortiz,F,1972-01-05,Ingeniero,72545414,Carrera 70 #23-67
+C129,Alberto,Flores,F,1988-07-07,Enfermera,70020160,Calle 10 #34-56
+C130,Fernando,Rivera,F,1979-11-24,Técnico,76525686,Avenida Central 890
+C131,Jorge,Herrera,M,1999-05-01,Diseñadora,77408734,Paseo Reforma 222
+C132,José,Martínez,M,1985-11-10,Arquitecta,71863917,Carrera 15 #45-23
+C133,Sofía,Fernández,M,1990-08-14,Profesor,78706019,Avenida Kennedy 321
+C134,Luis,Rivera,F,1972-09-23,Consultora,73029977,Boulevard Norte 77
+C135,Valentina,Cruz,F,1966-02-01,Ingeniero,79124864,Avenida Libertad 85
+C136,Antonio,Vargas,F,1962-02-08,Empresario,77168231,Calle Falsa 123
+C137,Miguel,García,F,1973-04-26,Bióloga,79463806,Calle Principal 56
+C138,Roberto,Romero,F,1989-12-12,Programador,78701399,Circuito Interior 67
+C139,Alberto,Gómez,F,1984-08-09,Técnico,72252178,Avenida Sur 435
+C140,Laura,Flores,F,1961-07-14,Programador,73843373,Avenida Central 890
+C141,Lucía,Rivera,F,1979-01-08,Arquitecta,77355216,Paseo Reforma 222
+C142,Gabriela,Herrera,F,1982-02-10,Bióloga,78393242,Carrera 7 #65-42
+C143,Daniela,Ruiz,M,1996-02-07,Profesor,73323197,Pasaje Oeste 12
+C144,Patricia,Vargas,F,1967-05-06,Enfermera,72174447,Pasaje Oeste 12
+C145,Eduardo,Gómez,F,1964-10-17,Médico,74929666,Calle Falsa 123
+C146,Miguel,Pérez,F,1985-03-27,Vendedor,73362097,Avenida Siempre Viva 742
+C147,Juan,Flores,F,1981-09-15,Consultora,71284242,Calle Falsa 123
+C148,Jorge,Pérez,M,1999-11-18,Profesor,79217481,Carrera 7 #65-42
+C149,Julia,Rivera,M,1968-06-19,Psicóloga,76814441,Avenida Central 890
+C150,Luis,Mendoza,F,1974-06-24,Chef,75934851,Boulevard La Paz 90
+C151,Julia,Ramírez,F,1991-09-11,Psicóloga,77668734,Avenida Sur 435
+C152,Francisco,Flores,M,1985-07-11,Chef,72900871,Calle Principal 56
+C153,Roberto,Castro,M,1963-12-07,Ingeniero,70208074,Calle 52 #10-85
+C154,Alberto,Rodríguez,M,1997-11-03,Arquitecta,74954425,Avenida Este 78
+C155,José,Sánchez,F,1970-12-14,Vendedor,77411392,Carrera 70 #23-67
+C156,Sofía,Sánchez,F,1976-11-06,Médico,78863436,Calle Principal 56
+C157,Luis,Ramírez,F,1993-10-19,Profesor,70256680,Avenida Siempre Viva 742
+C158,Ricardo,Ramírez,F,1997-08-26,Psicóloga,77675096,Avenida Este 78
+C159,Gabriela,Flores,F,1967-02-15,Secretaria,72062373,Carrera 7 #65-42
+C160,María,Navarro,M,1960-12-04,Secretaria,71025620,Boulevard Norte 77
+C161,Gabriela,Gutiérrez,F,1989-12-24,Profesor,76608813,Calle 52 #10-85
+C162,Valentina,Rivera,F,1987-02-14,Empresario,71003894,Carrera 70 #23-67
+C163,Sofía,López,F,1962-10-03,Mecánico,77641468,Avenida Central 890
+C164,Miguel,Gómez,F,1995-12-07,Diseñadora,70955953,Avenida Sur 435
+C165,Natalia,Jiménez,F,1990-07-24,Programador,75314052,Avenida Sur 435
+C166,Luis,López,F,1995-06-06,Bióloga,79788065,Avenida Siempre Viva 742
+C167,Juan,Sánchez,M,1978-10-10,Consultora,79292737,Calle 52 #10-85
+C168,Adriana,Pérez,M,1999-09-04,Administrativa,79045211,Calle 25 de Mayo 77
+C169,Luis,Morales,F,1978-03-12,Electricista,77585626,Calle 25 de Mayo 77
+C170,Ana,Castro,M,1962-03-12,Electricista,71594812,Boulevard Norte 77
+C171,Antonio,Rodríguez,M,1971-02-08,Técnico,76694849,Avenida Libertad 85
+C172,Miguel,Fernández,F,1990-09-07,Empresario,72303966,Carrera 70 #23-67
+C173,Valentina,Ortiz,M,1984-06-07,Empresario,77881577,Boulevard La Paz 90
+C174,Antonio,Romero,M,1960-08-02,Técnico,78883369,Avenida Siempre Viva 742
+C175,Laura,Torres,F,1977-01-27,Enfermera,74261149,Calle Principal 56
+C176,Ricardo,Romero,M,1984-06-21,Mecánico,79496072,Avenida Siempre Viva 742
+C177,Francisco,Vargas,F,1999-01-25,Consultora,70766916,Avenida Este 78
+C178,Roberto,Rodríguez,M,1985-01-14,Mecánico,70338216,Calle San Martín 44
+C179,Alberto,Sánchez,F,1961-09-18,Profesor,75259046,Calle Falsa 123
+C180,Ricardo,Ramírez,F,1990-10-11,Profesor,76778405,Calle Principal 56
+C181,Ana,López,M,1966-08-13,Consultora,76834360,Calle 25 de Mayo 77
+C182,Julia,Cruz,F,1967-06-08,Consultora,78063310,Calle 25 de Mayo 77
+C183,Valentina,Morales,M,1980-04-11,Bióloga,73887409,Avenida Libertad 85
+C184,Antonio,Vargas,M,1975-12-25,Médico,70293650,Avenida Kennedy 321
+C185,Camila,Morales,F,1985-07-12,Médico,74481088,Avenida Libertad 85
+C186,Miguel,Torres,F,1989-07-28,Programador,72882733,Circuito Interior 67
+C187,Julia,Ruiz,F,1960-05-15,Consultora,76275361,Paseo Reforma 222
+C188,Fernando,Torres,M,1987-09-09,Programador,72225671,Avenida Kennedy 321
+C189,Jorge,Sánchez,M,1998-10-08,Ingeniero,77197913,Circuito Interior 67
+C190,Miguel,Mendoza,M,1964-09-04,Profesor,79411761,Boulevard La Paz 90
+C191,María,Rodríguez,F,1988-05-26,Administrativa,78702182,Avenida Siempre Viva 742
+C192,Roberto,García,F,1989-02-12,Electricista,74816105,Carrera 70 #23-67
+C193,Roberto,Cruz,M,1996-05-02,Bióloga,73113280,Carrera 70 #23-67
+C194,Eduardo,Jiménez,M,1965-05-18,Mecánico,77143110,Carrera 15 #45-23
+C195,Patricia,Rodríguez,M,1977-09-08,Electricista,73266749,Carrera 70 #23-67
+C196,Ana,Navarro,M,1971-04-07,Diseñadora,71215631,Calle Falsa 123
+C197,Juan,Herrera,F,1974-04-23,Abogada,72666881,Boulevard La Paz 90
+C198,Adriana,Ortiz,F,1986-03-11,Programador,74107925,Boulevard La Paz 90
+C199,Julia,Sánchez,F,1975-12-06,Vendedor,78787616,Boulevard La Paz 90
+C200,Sofía,Gutiérrez,F,1977-06-20,Bióloga,71734417,Circuito Interior 67
+C201,Antonio,Díaz,F,1992-09-15,Diseñadora,77548486,Calle San Martín 44
+C202,Camila,Rivera,F,1966-03-10,Vendedor,77506385,Calle San Martín 44
+C203,Juan,García,F,1969-05-03,Médico,78825450,Circuito Interior 67
+C204,Patricia,Gómez,F,1986-04-27,Chef,70176142,Boulevard Norte 77
+C205,Ricardo,Romero,F,1979-07-15,Diseñadora,73149120,Boulevard Norte 77
+C206,Alberto,García,F,1985-02-06,Programador,78740103,Calle 25 de Mayo 77
+C207,Antonio,Fernández,F,1999-02-05,Secretaria,77641417,Avenida Kennedy 321
+C208,Patricia,Navarro,F,1964-03-02,Contador,75036566,Carrera 70 #23-67
+C209,Fernando,Díaz,M,1962-07-24,Arquitecta,72611280,Boulevard La Paz 90
+C210,Ana,Ramírez,F,1976-10-07,Psicóloga,78491504,Avenida Kennedy 321
+C211,Natalia,Cruz,M,1969-08-21,Programador,72190096,Paseo Reforma 222
+C212,Eduardo,Ruiz,M,1980-03-06,Vendedor,70016166,Carrera 15 #45-23
+C213,Lucía,Martínez,F,1964-06-05,Vendedor,71207509,Avenida Este 78
+C214,Ana,Díaz,M,1972-11-05,Mecánico,70492332,Boulevard La Paz 90
+C215,Ricardo,Navarro,F,1984-02-13,Contador,79730282,Calle 25 de Mayo 77
+C216,Camila,Vargas,F,1976-10-07,Arquitecta,78733579,Calle 25 de Mayo 77
+C217,Antonio,Castro,M,1988-02-28,Ingeniero,70641421,Carrera 7 #65-42
+C218,Adriana,Jiménez,M,1984-12-22,Enfermera,74676575,Paseo Reforma 222
+C219,Francisco,Torres,M,1991-03-16,Psicóloga,76408665,Pasaje Oeste 12
+C220,Patricia,García,M,1979-08-27,Secretaria,76232924,Avenida Libertad 85
+C221,Julia,Romero,M,1978-02-25,Técnico,76303405,Boulevard La Paz 90
+C222,María,Gutiérrez,M,1966-08-11,Administrativa,75143278,Paseo Reforma 222
+C223,Patricia,Sánchez,M,1978-06-25,Mecánico,74353110,Avenida Este 78
+C224,Fernando,Cruz,F,1993-06-11,Técnico,71055667,Avenida Sur 435
+C225,María,Vargas,M,1987-04-05,Administrativa,78627905,Paseo Reforma 222
+C226,Jorge,Flores,M,1978-05-20,Programador,74632952,Circuito Interior 67
+C227,José,Vargas,M,1999-05-21,Psicóloga,70487429,Calle 25 de Mayo 77
+C228,José,Cruz,F,1988-01-02,Ingeniero,79124287,Boulevard Norte 77
+C229,Patricia,Gutiérrez,M,1978-10-23,Empresario,76439016,Boulevard Norte 77
+C230,Lucía,Martínez,M,1997-11-07,Mecánico,75999483,Avenida Libertad 85
+C231,Jorge,Díaz,F,1994-11-09,Abogada,77282547,Boulevard Norte 77
+C232,Natalia,Cruz,M,1966-11-22,Contador,75185963,Carrera 7 #65-42
+C233,Sofía,Ortiz,M,1988-04-25,Psicóloga,75757084,Pasaje Oeste 12
+C234,Camila,Martínez,F,1992-03-05,Contador,73228957,Carrera 7 #65-42
+C235,Ana,Herrera,M,1968-01-25,Médico,70603416,Paseo Reforma 222
+C236,Adriana,Navarro,F,1984-04-06,Abogada,74764717,Avenida Central 890
+C237,Julia,Gutiérrez,M,1976-12-22,Consultora,72347898,Paseo Reforma 222
+C238,Daniela,Cruz,M,1978-01-17,Psicóloga,72316996,Avenida Este 78
+C239,Lucía,Castro,F,1974-04-08,Ingeniero,78922846,Calle 52 #10-85
+C240,Sofía,Ruiz,M,1996-11-25,Mecánico,79871363,Calle 10 #34-56
+C241,Jorge,Sánchez,M,1996-10-03,Mecánico,77757549,Avenida Siempre Viva 742
+C242,Camila,Ortiz,F,1961-09-01,Electricista,79849323,Calle 25 de Mayo 77
+C243,Adriana,Ortiz,F,1980-12-16,Arquitecta,76682955,Carrera 15 #45-23
+C244,Roberto,Flores,F,1973-07-12,Arquitecta,72227302,Calle Principal 56
+C245,José,Morales,F,1962-05-19,Mecánico,73211828,Avenida Siempre Viva 742
+C246,Carlos,Martínez,F,1978-05-19,Enfermera,79657646,Circuito Interior 67
+C247,Luis,Díaz,F,1990-12-21,Psicóloga,72032162,Avenida Central 890
+C248,Jorge,Vargas,F,1999-09-13,Programador,70535839,Avenida Kennedy 321
+C249,Fernando,García,F,1977-09-22,Arquitecta,71645675,Carrera 70 #23-67
+C250,Jorge,Gómez,F,1982-04-22,Administrativa,77458739,Carrera 7 #65-42
+C251,Adriana,Cruz,M,1990-09-18,Bióloga,73822306,Avenida Este 78
+C252,Carlos,Vargas,F,1973-05-23,Vendedor,71265685,Avenida Libertad 85
+C253,Miguel,Herrera,F,1985-10-19,Mecánico,79360857,Avenida Siempre Viva 742
+C254,José,Castro,F,1981-04-13,Profesor,78676253,Boulevard Norte 77
+C255,Patricia,Castro,F,1967-05-18,Diseñadora,79092342,Avenida Kennedy 321
+C256,Carlos,Castro,F,1978-04-10,Arquitecta,71128528,Boulevard La Paz 90
+C257,Luis,Rodríguez,F,1968-02-23,Técnico,75414343,Boulevard Norte 77
+C258,María,Rivera,M,1976-10-26,Psicóloga,76769737,Circuito Interior 67
+C259,Roberto,Castro,M,1990-10-12,Programador,71793316,Calle San Martín 44
+C260,Patricia,Fernández,F,1987-07-28,Profesor,79686573,Calle Falsa 123
+C261,Antonio,Ruiz,F,1986-02-10,Profesor,74079522,Circuito Interior 67
+C262,Fernando,Torres,F,1985-08-15,Programador,71069501,Avenida Libertad 85
+C263,José,Romero,F,1997-08-22,Diseñadora,71181763,Carrera 15 #45-23
+C264,Juan,Cruz,M,1998-06-14,Secretaria,78732728,Carrera 15 #45-23
+C265,Sofía,Fernández,F,1991-11-20,Empresario,71428182,Carrera 15 #45-23
+C266,Lucía,Vargas,F,1976-09-13,Chef,79493715,Avenida Central 890
+C267,Roberto,Sánchez,F,1964-05-19,Enfermera,79994142,Carrera 7 #65-42
+C268,Julia,Gómez,M,1999-12-11,Programador,72239571,Calle 10 #34-56
+C269,Jorge,Gutiérrez,M,1982-02-06,Contador,71410567,Calle 10 #34-56
+C270,Eduardo,Ortiz,F,1981-01-13,Mecánico,76539326,Avenida Kennedy 321
+C271,Roberto,Jiménez,M,1997-06-07,Diseñadora,74293247,Paseo Reforma 222
+C272,Daniela,Ramírez,M,1974-06-05,Electricista,70832120,Calle 52 #10-85
+C273,Antonio,Herrera,M,1978-12-19,Vendedor,75869773,Carrera 15 #45-23
+C274,María,Martínez,F,1993-08-19,Profesor,72693578,Calle Falsa 123
+C275,Adriana,García,F,1974-12-16,Profesor,73073163,Carrera 15 #45-23
+C276,Adriana,Herrera,M,1984-01-21,Secretaria,75352375,Carrera 15 #45-23
+C277,Lucía,Cruz,F,1960-08-28,Técnico,79366376,Paseo Reforma 222
+C278,Camila,López,M,1984-09-05,Contador,71741667,Calle Falsa 123
+C279,Sofía,Mendoza,M,1982-09-18,Electricista,74246453,Carrera 70 #23-67
+C280,Natalia,Martínez,F,1993-02-23,Mecánico,71518452,Avenida Kennedy 321
+C281,Natalia,López,M,1980-09-24,Médico,71237262,Carrera 7 #65-42
+C282,Adriana,Martínez,M,1977-10-06,Contador,71690068,Calle Principal 56
+C283,José,Morales,M,1961-04-10,Diseñadora,75182300,Carrera 7 #65-42
+C284,Sofía,Fernández,F,1995-07-10,Chef,74630353,Avenida Siempre Viva 742
+C285,Laura,Morales,F,1967-07-13,Enfermera,75157926,Pasaje Oeste 12
+C286,Natalia,Díaz,M,1979-08-07,Empresario,77237829,Avenida Siempre Viva 742
+C287,Daniela,Sánchez,F,1972-09-16,Electricista,76876452,Calle 52 #10-85
+C288,Carlos,López,M,1998-11-05,Profesor,71163240,Avenida Sur 435
+C289,José,Rodríguez,F,1986-01-20,Abogada,76359572,Paseo Reforma 222
+C290,Laura,Ramírez,F,1994-09-27,Mecánico,76376838,Calle Principal 56
+C291,Alberto,Morales,M,1972-08-23,Psicóloga,70181272,Circuito Interior 67
+C292,Gabriela,Flores,M,1969-01-04,Diseñadora,74110803,Avenida Este 78
+C293,Alberto,Navarro,F,1962-05-25,Diseñadora,71595546,Avenida Este 78
+C294,Gabriela,Jiménez,F,1982-04-20,Enfermera,76827792,Avenida Sur 435
+C295,Camila,Torres,F,1993-06-19,Consultora,79732374,Carrera 7 #65-42
+C296,Juan,Flores,M,1972-12-20,Empresario,76904829,Carrera 70 #23-67
+C297,Laura,Navarro,F,1986-12-07,Secretaria,76585259,Carrera 15 #45-23
+C298,Juan,Ortiz,F,1997-03-01,Secretaria,78196438,Calle Principal 56
+C299,María,Cruz,F,1978-07-03,Vendedor,71795698,Pasaje Oeste 12
+C300,Gabriela,Pérez,F,1996-08-06,Programador,77457477,Boulevard Norte 77
+C301,Valentina,Romero,F,1974-08-07,Bióloga,73379972,Carrera 7 #65-42
+C302,Lucía,Cruz,F,1965-02-05,Contador,76034691,Carrera 70 #23-67
+C303,Jorge,Cruz,F,1990-12-10,Médico,72880811,Calle Falsa 123
+C304,José,Mendoza,F,1998-02-08,Arquitecta,77999893,Avenida Libertad 85
+C305,Juan,Pérez,F,1997-04-03,Consultora,70540147,Pasaje Oeste 12
+C306,Ana,Mendoza,F,1969-06-05,Vendedor,72582348,Calle 52 #10-85
+C307,José,Cruz,M,1961-03-19,Consultora,71080852,Calle Falsa 123
+C308,Patricia,Pérez,F,1997-11-03,Consultora,76450658,Calle Principal 56
+C309,Camila,López,F,1977-11-06,Diseñadora,70952142,Carrera 70 #23-67
+C310,Valentina,Pérez,F,1995-11-08,Vendedor,78725431,Calle 25 de Mayo 77
+C311,Lucía,Sánchez,F,1960-08-13,Bióloga,70831214,Carrera 7 #65-42
+C312,Valentina,Pérez,F,1972-08-09,Electricista,73489869,Pasaje Oeste 12
+C313,Laura,Ruiz,M,1991-04-10,Técnico,73628230,Calle 25 de Mayo 77
+C314,Ricardo,Ruiz,F,1977-07-12,Empresario,77180806,Boulevard Norte 77
+C315,Alberto,Díaz,F,1992-03-25,Vendedor,75738589,Boulevard La Paz 90
+C316,Ricardo,Jiménez,F,1989-09-22,Bióloga,74829974,Circuito Interior 67
+C317,Roberto,Gutiérrez,F,1989-09-22,Médico,72103036,Boulevard Norte 77
+C318,Carlos,Ramírez,F,1966-08-12,Contador,72686752,Avenida Kennedy 321
+C319,Natalia,Herrera,F,1962-01-22,Enfermera,70689678,Paseo Reforma 222
+C320,Ana,Morales,F,1986-07-18,Enfermera,75542072,Carrera 15 #45-23
+C321,Laura,Jiménez,F,1962-01-26,Abogada,74095225,Circuito Interior 67
+C322,José,Vargas,M,1961-04-26,Abogada,72821738,Pasaje Oeste 12
+C323,María,Castro,M,1991-01-27,Contador,78888017,Calle Principal 56
+C324,Laura,Cruz,F,1998-08-24,Bióloga,75085244,Avenida Este 78
+C325,Patricia,Morales,M,1989-08-03,Médico,70039635,Paseo Reforma 222
+C326,Ana,Jiménez,F,1999-08-26,Profesor,77586102,Calle 52 #10-85
+C327,Lucía,Gutiérrez,M,1983-03-23,Enfermera,78400309,Carrera 15 #45-23
+C328,Alberto,Cruz,F,1977-08-22,Técnico,79331527,Calle San Martín 44
+C329,Adriana,Morales,F,1979-11-07,Profesor,78551249,Avenida Este 78
+C330,Eduardo,Ortiz,F,1991-05-06,Abogada,78517308,Avenida Central 890
+C331,José,Cruz,F,1981-08-04,Diseñadora,78268359,Paseo Reforma 222
+C332,Juan,Martínez,M,1962-03-21,Vendedor,74005500,Calle Falsa 123
+C333,Gabriela,Torres,M,1983-11-11,Consultora,70340256,Boulevard La Paz 90
+C334,Ricardo,Fernández,M,1994-06-26,Médico,78640868,Carrera 15 #45-23
+C335,Fernando,Herrera,F,1997-11-22,Bióloga,79432805,Pasaje Oeste 12
+C336,Francisco,Pérez,F,1965-02-25,Enfermera,74807057,Circuito Interior 67
+C337,Daniela,Ramírez,F,1979-07-24,Electricista,71984163,Carrera 15 #45-23
+C338,Daniela,Flores,F,1984-09-02,Psicóloga,76173409,Circuito Interior 67
+C339,Juan,Ruiz,M,1980-06-16,Abogada,75303729,Carrera 70 #23-67
+C340,Laura,Morales,M,1968-10-19,Arquitecta,71858221,Circuito Interior 67
+C341,Ana,Ortiz,F,1994-05-17,Médico,71495611,Carrera 15 #45-23
+C342,Antonio,Mendoza,M,1962-03-18,Arquitecta,79534620,Boulevard Norte 77
+C343,Daniela,Díaz,F,1967-05-11,Vendedor,75074128,Carrera 15 #45-23
+C344,Daniela,Cruz,M,1977-06-14,Profesor,77724152,Carrera 7 #65-42
+C345,Camila,Gutiérrez,F,1992-02-09,Psicóloga,78196975,Boulevard Norte 77
+C346,Roberto,Gómez,F,1983-05-21,Mecánico,75074176,Calle Principal 56
+C347,Eduardo,Gómez,M,1980-05-19,Abogada,73524075,Avenida Sur 435
+C348,Ana,Rivera,M,1976-04-17,Psicóloga,74089771,Paseo Reforma 222
+C349,María,Romero,M,1976-01-22,Médico,72296922,Avenida Kennedy 321
+C350,María,Martínez,M,1972-06-24,Psicóloga,73033860,Avenida Este 78
+C351,Fernando,López,M,1985-03-21,Secretaria,70811286,Calle San Martín 44
+C352,Natalia,Sánchez,F,1990-06-25,Psicóloga,75222288,Calle 25 de Mayo 77
+C353,Daniela,Rivera,F,1986-06-23,Abogada,78657113,Avenida Este 78
+C354,María,Ramírez,M,1986-09-21,Enfermera,71152205,Calle San Martín 44
+C355,Julia,Martínez,M,1983-03-27,Administrativa,72317381,Boulevard La Paz 90
+C356,Ricardo,Torres,M,1988-02-23,Técnico,76637159,Avenida Kennedy 321
+C357,Luis,Flores,F,1961-11-26,Bióloga,77666337,Carrera 7 #65-42
+C358,Daniela,Martínez,M,1982-03-23,Arquitecta,77817414,Avenida Este 78
+C359,Ricardo,López,M,1964-06-15,Administrativa,75453780,Carrera 70 #23-67
+C360,Natalia,Romero,F,1968-06-12,Empresario,75201950,Carrera 7 #65-42
+C361,Julia,Gómez,M,1987-05-09,Contador,79165348,Carrera 15 #45-23
+C362,Ana,Herrera,M,1984-11-23,Enfermera,73992039,Avenida Sur 435
+C363,Luis,Martínez,M,1997-02-01,Administrativa,75400127,Avenida Libertad 85
+C364,Antonio,Herrera,M,1976-11-13,Médico,73482027,Calle Falsa 123
+C365,Valentina,Castro,F,1963-01-07,Psicóloga,79450969,Calle 10 #34-56
+C366,Luis,Fernández,M,1964-06-28,Chef,74266372,Circuito Interior 67
+C367,Laura,Herrera,M,1995-05-12,Ingeniero,76945365,Circuito Interior 67
+C368,Valentina,Martínez,M,1978-01-09,Psicóloga,78868720,Avenida Libertad 85
+C369,Ana,Cruz,F,1985-05-16,Vendedor,72445841,Carrera 7 #65-42
+C370,Patricia,López,M,1978-10-05,Profesor,71925818,Calle 52 #10-85
+C371,Daniela,Torres,M,1970-01-21,Programador,77426571,Calle 25 de Mayo 77
+C372,María,Fernández,F,1967-05-27,Electricista,74651843,Calle 52 #10-85
+C373,Patricia,Gómez,F,1986-08-10,Administrativa,76571721,Calle San Martín 44
+C374,Carlos,López,M,1962-08-24,Psicóloga,78892434,Boulevard La Paz 90
+C375,Natalia,Rodríguez,M,1961-05-25,Contador,75278204,Carrera 7 #65-42
+C376,Gabriela,Mendoza,F,1967-07-14,Arquitecta,72731788,Calle 52 #10-85
+C377,Patricia,Fernández,F,1990-04-27,Vendedor,72728372,Avenida Siempre Viva 742
+C378,Antonio,Herrera,M,1968-08-24,Secretaria,74328635,Carrera 70 #23-67
+C379,Julia,Ramírez,M,1980-12-12,Administrativa,71972197,Avenida Central 890
+C380,Luis,Torres,F,1993-03-27,Programador,70235768,Boulevard Norte 77
+C381,Laura,Rivera,F,1983-06-11,Bióloga,75984983,Avenida Libertad 85
+C382,Adriana,Ramírez,F,1966-12-02,Consultora,76071754,Boulevard La Paz 90
+C383,Antonio,Navarro,M,1990-01-11,Profesor,75207006,Calle Falsa 123
+C384,Miguel,Ruiz,F,1986-06-28,Vendedor,74634867,Paseo Reforma 222
+C385,Lucía,Ruiz,M,1984-07-09,Empresario,73925450,Calle Principal 56
+C386,Patricia,Castro,F,1968-11-13,Contador,75517930,Pasaje Oeste 12
+C387,Carlos,Flores,F,1975-09-14,Profesor,75932632,Circuito Interior 67
+C388,Carlos,Martínez,F,1994-01-10,Empresario,77360307,Avenida Sur 435
+C389,Roberto,López,M,1971-01-04,Enfermera,72870950,Boulevard Norte 77
+C390,Jorge,López,F,1986-09-10,Profesor,74115242,Boulevard La Paz 90
+C391,José,Morales,M,1997-12-04,Abogada,77001483,Carrera 7 #65-42
+C392,Ana,Martínez,F,1985-10-05,Empresario,79288120,Avenida Central 890
+C393,Carlos,López,M,1970-01-02,Profesor,73254562,Carrera 7 #65-42
+C394,Adriana,Rivera,M,1964-06-25,Técnico,70786781,Paseo Reforma 222
+C395,Patricia,Castro,M,1966-09-12,Ingeniero,70395869,Avenida Central 890
+C396,Laura,Martínez,M,1972-11-24,Diseñadora,70282808,Avenida Siempre Viva 742
+C397,Juan,Cruz,M,1966-03-14,Ingeniero,72789480,Circuito Interior 67
+C398,Luis,Gutiérrez,M,1966-07-16,Médico,79759023,Avenida Este 78
+C399,Gabriela,Mendoza,F,1984-10-07,Ingeniero,79869255,Paseo Reforma 222
+C400,Antonio,Gutiérrez,M,1993-11-15,Contador,74342849,Pasaje Oeste 12
+C401,Valentina,Gómez,M,1973-01-17,Electricista,73208641,Circuito Interior 67
+C402,Patricia,Gutiérrez,M,1966-02-09,Enfermera,77861420,Carrera 15 #45-23
+C403,Patricia,Navarro,F,1987-04-17,Abogada,73186910,Paseo Reforma 222
+C404,Julia,Martínez,F,1997-02-09,Consultora,71282398,Paseo Reforma 222
+C405,Juan,Morales,M,1992-07-22,Empresario,72855564,Avenida Siempre Viva 742
+C406,Ana,Ruiz,F,1995-05-15,Técnico,79812164,Calle 52 #10-85
+C407,Francisco,Díaz,F,1960-06-02,Programador,75948872,Avenida Sur 435
+C408,Natalia,López,F,1972-06-23,Administrativa,71171596,Calle 52 #10-85
+C409,Laura,Ramírez,M,1991-08-21,Psicóloga,74372658,Avenida Siempre Viva 742
+C410,Roberto,Cruz,F,1994-06-23,Administrativa,72925637,Calle 25 de Mayo 77
+C411,Roberto,Rodríguez,F,1994-11-18,Secretaria,74775578,Carrera 7 #65-42
+C412,Camila,Rodríguez,F,1965-12-16,Bióloga,79695356,Calle Principal 56
+C413,Adriana,Ruiz,M,1984-10-25,Programador,72757055,Paseo Reforma 222
+C414,Daniela,Torres,F,1969-04-19,Ingeniero,77756172,Paseo Reforma 222
+C415,Adriana,Torres,F,1962-10-09,Electricista,71224139,Avenida Central 890
+C416,José,Rodríguez,F,1979-06-17,Secretaria,72355496,Calle Principal 56
+C417,Miguel,Ortiz,M,1970-03-27,Chef,78819116,Calle Principal 56
+C418,María,Navarro,M,1981-07-22,Programador,75573013,Avenida Sur 435
+C419,Fernando,Mendoza,M,1991-09-02,Secretaria,75519302,Calle San Martín 44
+C420,José,Flores,F,1996-08-19,Contador,71120690,Carrera 70 #23-67
+C421,Alberto,Morales,M,1989-01-22,Vendedor,78115721,Avenida Libertad 85
+C422,Adriana,Martínez,M,1982-04-23,Programador,77130322,Boulevard Norte 77
+C423,Fernando,Ramírez,M,1964-02-07,Ingeniero,78551803,Calle 25 de Mayo 77
+C424,Roberto,Rodríguez,M,1985-08-15,Electricista,73326573,Calle 25 de Mayo 77
+C425,Lucía,Ramírez,F,1967-03-21,Programador,73432426,Avenida Sur 435
+C426,Patricia,Ortiz,F,1992-07-15,Consultora,77891035,Carrera 15 #45-23
+C427,Laura,Torres,F,1984-09-16,Profesor,75008514,Circuito Interior 67
+C428,Roberto,Fernández,M,1999-04-11,Mecánico,74523136,Calle Principal 56
+C429,Valentina,Mendoza,F,1978-08-07,Ingeniero,71526776,Calle Principal 56
+C430,Roberto,Morales,M,1998-12-11,Bióloga,71682817,Calle 25 de Mayo 77
+C431,Patricia,Torres,F,1999-11-20,Psicóloga,70662696,Circuito Interior 67
+C432,Fernando,Ramírez,F,1989-07-08,Contador,77665307,Boulevard Norte 77
+C433,Julia,García,M,1997-06-22,Chef,74028903,Circuito Interior 67
+C434,Camila,Gómez,F,1963-08-04,Abogada,75070542,Carrera 15 #45-23
+C435,Eduardo,Rivera,F,1979-04-08,Bióloga,71886300,Carrera 70 #23-67
+C436,Sofía,Mendoza,M,1973-02-07,Médico,73771907,Circuito Interior 67
+C437,Daniela,Jiménez,F,1991-01-12,Vendedor,72490087,Carrera 70 #23-67
+C438,Julia,Morales,M,1980-08-07,Bióloga,75780502,Calle Principal 56
+C439,Camila,Pérez,M,1990-04-27,Secretaria,74979481,Avenida Libertad 85
+C440,Valentina,Ortiz,F,1999-10-26,Vendedor,76632203,Carrera 70 #23-67
+C441,Gabriela,Pérez,M,1995-11-19,Programador,77605179,Paseo Reforma 222
+C442,Luis,Gutiérrez,F,1988-01-02,Abogada,77980868,Calle Principal 56
+C443,Camila,Rodríguez,F,1999-10-22,Arquitecta,71911831,Boulevard Norte 77
+C444,Laura,Rodríguez,M,1975-02-07,Ingeniero,77978169,Pasaje Oeste 12
+C445,Patricia,Mendoza,M,1994-08-25,Vendedor,72870752,Avenida Este 78
+C446,Daniela,Ruiz,M,1979-10-02,Programador,71973209,Carrera 7 #65-42
+C447,Patricia,Fernández,F,1969-06-09,Profesor,73076038,Calle San Martín 44
+C448,María,Navarro,M,1963-07-28,Empresario,78236312,Avenida Kennedy 321
+C449,Jorge,Martínez,M,1993-12-06,Diseñadora,76599646,Calle Principal 56
+C450,Camila,Ruiz,F,1990-07-13,Arquitecta,79269914,Carrera 70 #23-67
+C451,Ricardo,Morales,F,1992-02-02,Bióloga,78546993,Calle Falsa 123
+C452,Carlos,Gómez,F,1992-11-22,Consultora,78400937,Calle 52 #10-85
+C453,Francisco,Jiménez,M,1975-04-25,Consultora,77417802,Carrera 70 #23-67
+C454,Sofía,Gómez,M,1986-06-14,Administrativa,72768483,Calle 52 #10-85
+C455,María,Herrera,M,1986-06-22,Técnico,70495889,Avenida Sur 435
+C456,Sofía,Herrera,F,1986-06-19,Profesor,79530066,Avenida Kennedy 321
+C457,Patricia,Romero,F,1999-04-24,Ingeniero,77174210,Pasaje Oeste 12
+C458,Jorge,Jiménez,F,1987-07-03,Consultora,73223295,Calle 10 #34-56
+C459,Valentina,Morales,F,1976-03-27,Vendedor,74089173,Boulevard La Paz 90
+C460,Patricia,Flores,M,1979-09-08,Arquitecta,78320546,Calle San Martín 44
+C461,Patricia,Romero,M,1996-02-24,Abogada,77042202,Carrera 15 #45-23
+C462,Natalia,Rodríguez,M,1977-01-21,Mecánico,77118990,Avenida Kennedy 321
+C463,Francisco,Navarro,M,1983-10-21,Arquitecta,75563118,Avenida Este 78
+C464,Julia,Gutiérrez,M,1967-03-13,Arquitecta,76225046,Pasaje Oeste 12
+C465,Valentina,López,M,1995-09-03,Psicóloga,75563805,Calle San Martín 44
+C466,Valentina,Martínez,M,1978-05-09,Diseñadora,75685302,Avenida Sur 435
+C467,Ana,López,F,1996-06-11,Técnico,76243677,Carrera 7 #65-42
+C468,Valentina,Fernández,M,1997-04-11,Ingeniero,79467171,Boulevard La Paz 90
+C469,Francisco,Rodríguez,F,1982-11-09,Empresario,79482601,Calle Falsa 123
+C470,Valentina,García,M,1995-12-26,Electricista,78552007,Pasaje Oeste 12
+C471,Miguel,Rivera,M,1982-10-27,Electricista,70742579,Boulevard La Paz 90
+C472,Jorge,Ruiz,M,1989-02-05,Arquitecta,70783295,Carrera 70 #23-67
+C473,Julia,Díaz,M,1973-03-03,Ingeniero,73697366,Paseo Reforma 222
+C474,Antonio,Morales,F,1964-05-02,Electricista,78652506,Avenida Libertad 85
+C475,Antonio,Pérez,F,1988-11-17,Contador,72715956,Calle 10 #34-56
+C476,Lucía,Ruiz,M,1981-02-16,Programador,70898836,Avenida Central 890
+C477,Juan,Vargas,F,1982-07-14,Bióloga,70374628,Carrera 7 #65-42
+C478,Miguel,Gutiérrez,M,1969-05-09,Abogada,74762106,Calle 25 de Mayo 77
+C479,Fernando,Fernández,M,1969-07-27,Consultora,70644177,Avenida Libertad 85
+C480,Lucía,Ramírez,F,1965-09-14,Programador,72507794,Avenida Central 890
+C481,Gabriela,Rivera,M,1992-03-20,Abogada,71638557,Avenida Sur 435
+C482,Jorge,Martínez,F,1994-06-25,Programador,75412812,Calle 52 #10-85
+C483,Eduardo,Vargas,F,1992-11-23,Administrativa,77439720,Avenida Libertad 85
+C484,Ricardo,Castro,M,1997-06-13,Administrativa,70863713,Avenida Sur 435
+C485,Eduardo,Castro,M,1994-07-28,Consultora,77523659,Avenida Sur 435
+C486,Ricardo,Díaz,F,1997-06-04,Programador,75261383,Calle 10 #34-56
+C487,Ricardo,Gutiérrez,F,1997-10-03,Administrativa,79298418,Carrera 15 #45-23
+C488,Valentina,Herrera,F,1977-06-13,Vendedor,70979984,Avenida Libertad 85
+C489,Camila,Navarro,F,1984-02-17,Bióloga,72673296,Avenida Libertad 85
+C490,Francisco,Morales,M,1988-07-11,Secretaria,70623360,Calle 25 de Mayo 77
+C491,Camila,Gutiérrez,F,1971-05-03,Consultora,79515183,Avenida Central 890
+C492,Juan,Herrera,F,1989-04-06,Arquitecta,70122738,Carrera 15 #45-23
+C493,Adriana,Mendoza,M,1984-03-07,Enfermera,78059848,Pasaje Oeste 12
+C494,Carlos,Flores,F,1969-08-22,Chef,73448319,Circuito Interior 67
+C495,Natalia,Sánchez,F,1999-09-11,Diseñadora,79860437,Calle Falsa 123
+C496,Adriana,Pérez,M,1996-08-26,Médico,74659817,Circuito Interior 67
+C497,Fernando,García,F,1988-06-03,Bióloga,74787552,Avenida Este 78
+C498,María,Ruiz,M,1992-08-20,Diseñadora,77495929,Paseo Reforma 222
+C499,Ricardo,Mendoza,M,1992-07-12,Diseñadora,73317717,Calle 25 de Mayo 77
+C500,Daniela,Fernández,M,1980-09-17,Técnico,72997722,Circuito Interior 67

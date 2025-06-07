@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Registro de Personas</title>
+</head>
+<body>
+  <h1>Formulario de Registro</h1>
+  <form action="/registrar" method="post">
+    <label>Carnet:      <input type="text" name="carnet"      required></label><br>
+    <label>Nombres:     <input type="text" name="nombres"     required></label><br>
+    <label>Apellidos:   <input type="text" name="apellidos"   required></label><br>
+    <label>Sexo:
+      <select name="sexo" required>
+        <option value="M">M</option>
+        <option value="F">F</option>
+      </select>
+    </label><br>
+    <label>Fecha Nac.:  <input type="date" name="fecha_nac"  required></label><br>
+    <label>Profesión:   <input type="text" name="profesion"   required></label><br>
+    <label>Celular:     <input type="text" name="celular"     required></label><br>
+    <label>Dirección:   <input type="text" name="direccion"   required></label><br>
+    <button type="submit">Registrar</button>
+  </form>
+
+  <hr>
+  <h2>Personas Registradas</h2>
+  <table border="1" cellpadding="5">
+    <tr>
+      <th>Carnet</th><th>Nombres</th><th>Apellidos</th><th>Sexo</th>
+      <th>Fecha Nac.</th><th>Profesión</th><th>Celular</th><th>Dirección</th>
+    </tr>
+    <% personas.forEach(p => { %>
+      <tr>
+        <td><%= p.carnet %></td>
+        <td><%= p.nombres %></td>
+        <td><%= p.apellidos %></td>
+        <td><%= p.sexo %></td>
+        <td><%= p.fecha_nac.toISOString().split('T')[0] %></td>
+        <td><%= p.profesion %></td>
+        <td><%= p.celular %></td>
+        <td><%= p.direccion %></td>
+      </tr>
+    <% }) %>
+  </table>
+</body>
+</html>

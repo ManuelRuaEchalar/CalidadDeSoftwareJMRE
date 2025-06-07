@@ -1,0 +1,293 @@
+{
+  "id": "21cdd762-a5c5-4702-b796-74c93fdbe700",
+  "version": "2.0",
+  "name": "montellano",
+  "url": "http://localhost:3000",
+  "tests": [{
+    "id": "4da0b565-bf75-4f39-8750-1998c7ca206f",
+    "name": "registro",
+    "commands": [{
+      "id": "fc3e7243-f134-4409-a0a7-fe9303f4053a",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "405587d2-80ca-498f-977c-a94c74ee7714",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x692",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "10dd5ee9-d40f-417d-adc6-9b4f829a9ab1",
+      "comment": "",
+      "command": "click",
+      "target": "name=carnet",
+      "targets": [
+        ["name=carnet", "name"],
+        ["css=label:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@name='carnet']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "26268a2b-c6c1-4d0c-8833-0b7e1f5b69dc",
+      "comment": "",
+      "command": "type",
+      "target": "name=carnet",
+      "targets": [
+        ["name=carnet", "name"],
+        ["css=label:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@name='carnet']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "10321389"
+    }, {
+      "id": "4d4abf8f-f3f8-4fbf-932d-bc57a0da26a0",
+      "comment": "",
+      "command": "click",
+      "target": "css=form",
+      "targets": [
+        ["css=form", "css:finder"],
+        ["xpath=//form[@action='/registrar']", "xpath:attributes"],
+        ["xpath=//form", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e5d2c25e-dda9-435c-aacf-c99a2692bf9e",
+      "comment": "",
+      "command": "click",
+      "target": "name=nombres",
+      "targets": [
+        ["name=nombres", "name"],
+        ["css=label:nth-child(3) > input", "css:finder"],
+        ["xpath=//input[@name='nombres']", "xpath:attributes"],
+        ["xpath=//label[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "86079a2a-73a2-4e44-bbc7-6ebba82dbd16",
+      "comment": "",
+      "command": "type",
+      "target": "name=nombres",
+      "targets": [
+        ["name=nombres", "name"],
+        ["css=label:nth-child(3) > input", "css:finder"],
+        ["xpath=//input[@name='nombres']", "xpath:attributes"],
+        ["xpath=//label[2]/input", "xpath:position"]
+      ],
+      "value": "Juan Manuel"
+    }, {
+      "id": "5c544882-c826-479f-8b6b-fe8b7550ac96",
+      "comment": "",
+      "command": "click",
+      "target": "name=apellidos",
+      "targets": [
+        ["name=apellidos", "name"],
+        ["css=label:nth-child(5) > input", "css:finder"],
+        ["xpath=//input[@name='apellidos']", "xpath:attributes"],
+        ["xpath=//label[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8bd73e58-16d8-4fa9-ac90-169a56d1aa6e",
+      "comment": "",
+      "command": "type",
+      "target": "name=apellidos",
+      "targets": [
+        ["name=apellidos", "name"],
+        ["css=label:nth-child(5) > input", "css:finder"],
+        ["xpath=//input[@name='apellidos']", "xpath:attributes"],
+        ["xpath=//label[3]/input", "xpath:position"]
+      ],
+      "value": "Rúa Echalar"
+    }, {
+      "id": "b8b7011f-2882-4536-8066-ae4077a573a9",
+      "comment": "",
+      "command": "click",
+      "target": "name=sexo",
+      "targets": [
+        ["name=sexo", "name"],
+        ["css=select", "css:finder"],
+        ["xpath=//select[@name='sexo']", "xpath:attributes"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f67a7549-b95d-4e55-8474-1b1eda6e7e39",
+      "comment": "",
+      "command": "select",
+      "target": "name=sexo",
+      "targets": [],
+      "value": "label=F"
+    }, {
+      "id": "5c4c1e14-f251-4ca8-b441-34edfbe6683e",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(2)",
+      "targets": [
+        ["css=option:nth-child(2)", "css:finder"],
+        ["xpath=//option[@value='F']", "xpath:attributes"],
+        ["xpath=//option[2]", "xpath:position"],
+        ["xpath=//option[contains(.,'F')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "58045981-7f25-4647-8e9e-46710afa69a9",
+      "comment": "",
+      "command": "click",
+      "target": "name=carnet",
+      "targets": [
+        ["name=carnet", "name"],
+        ["css=label:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@name='carnet']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d5a8ea74-44f3-4294-8cde-6795d286e244",
+      "comment": "",
+      "command": "type",
+      "target": "name=carnet",
+      "targets": [
+        ["name=carnet", "name"],
+        ["css=label:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@name='carnet']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "10321388"
+    }, {
+      "id": "0e8bec0a-3a5d-455f-889d-60fd4026eeaf",
+      "comment": "",
+      "command": "click",
+      "target": "name=profesion",
+      "targets": [
+        ["name=profesion", "name"],
+        ["css=label:nth-child(11) > input", "css:finder"],
+        ["xpath=//input[@name='profesion']", "xpath:attributes"],
+        ["xpath=//label[6]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "48b9d837-c559-4671-afa4-5afcec96f0cc",
+      "comment": "",
+      "command": "click",
+      "target": "name=fecha_nac",
+      "targets": [
+        ["name=fecha_nac", "name"],
+        ["css=label:nth-child(9) > input", "css:finder"],
+        ["xpath=//input[@name='fecha_nac']", "xpath:attributes"],
+        ["xpath=//label[5]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2367a0ef-bb39-456f-93b2-3151f6c39b08",
+      "comment": "",
+      "command": "type",
+      "target": "name=fecha_nac",
+      "targets": [
+        ["name=fecha_nac", "name"],
+        ["css=label:nth-child(9) > input", "css:finder"],
+        ["xpath=//input[@name='fecha_nac']", "xpath:attributes"],
+        ["xpath=//label[5]/input", "xpath:position"]
+      ],
+      "value": "2002-07-13"
+    }, {
+      "id": "ec921c39-8082-46e1-b055-b0ab4ce93144",
+      "comment": "",
+      "command": "click",
+      "target": "name=profesion",
+      "targets": [
+        ["name=profesion", "name"],
+        ["css=label:nth-child(11) > input", "css:finder"],
+        ["xpath=//input[@name='profesion']", "xpath:attributes"],
+        ["xpath=//label[6]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9c386d9b-8e19-4571-95c9-abc903503b3a",
+      "comment": "",
+      "command": "type",
+      "target": "name=profesion",
+      "targets": [
+        ["name=profesion", "name"],
+        ["css=label:nth-child(11) > input", "css:finder"],
+        ["xpath=//input[@name='profesion']", "xpath:attributes"],
+        ["xpath=//label[6]/input", "xpath:position"]
+      ],
+      "value": "ingeniero"
+    }, {
+      "id": "1563d4e3-b05c-4817-bfc9-7d55795fd984",
+      "comment": "",
+      "command": "click",
+      "target": "name=celular",
+      "targets": [
+        ["name=celular", "name"],
+        ["css=label:nth-child(13) > input", "css:finder"],
+        ["xpath=//input[@name='celular']", "xpath:attributes"],
+        ["xpath=//label[7]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ad88a549-8848-4ce8-bdbb-0ed7e3614143",
+      "comment": "",
+      "command": "type",
+      "target": "name=celular",
+      "targets": [
+        ["name=celular", "name"],
+        ["css=label:nth-child(13) > input", "css:finder"],
+        ["xpath=//input[@name='celular']", "xpath:attributes"],
+        ["xpath=//label[7]/input", "xpath:position"]
+      ],
+      "value": "78699519"
+    }, {
+      "id": "52328685-75dd-45cb-bc3f-3db953bb18d0",
+      "comment": "",
+      "command": "click",
+      "target": "name=direccion",
+      "targets": [
+        ["name=direccion", "name"],
+        ["css=label:nth-child(15) > input", "css:finder"],
+        ["xpath=//input[@name='direccion']", "xpath:attributes"],
+        ["xpath=//label[8]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8217ea17-e33a-4ee4-aba3-154ca0b3a952",
+      "comment": "",
+      "command": "type",
+      "target": "name=direccion",
+      "targets": [
+        ["name=direccion", "name"],
+        ["css=label:nth-child(15) > input", "css:finder"],
+        ["xpath=//input[@name='direccion']", "xpath:attributes"],
+        ["xpath=//label[8]/input", "xpath:position"]
+      ],
+      "value": "calle beni #98, San Roque"
+    }, {
+      "id": "2bd017ce-9092-4238-964d-0bc20e0d90d3",
+      "comment": "",
+      "command": "click",
+      "target": "css=button",
+      "targets": [
+        ["css=button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Registrar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5259c0eb-2d0f-493b-bccd-4a85899075bf",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["4da0b565-bf75-4f39-8750-1998c7ca206f"]
+  }],
+  "urls": ["http://localhost:3000/"],
+  "plugins": []
+}
